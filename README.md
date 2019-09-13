@@ -1,5 +1,3 @@
-# prueba
-
 var App = React.createClass({
   getInitialState : function() {
     return (
